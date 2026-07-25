@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Aivi</strong><br />
-  Live Activities over API
+  Live Activities &amp; Widgets over API
 </p>
 
 <p align="center">
@@ -19,15 +19,19 @@
 
 ---
 
-Aivi is the simplest way to connect your devices to a real-time **Live
-Activity** on your iPhone. Make a single HTTP call to the Aivi API and track
-the progress of anything &ndash; from a washing machine cycle to a 3D print.
+Aivi is the simplest way to connect your devices to real-time **Live
+Activities** and **widgets** on your iPhone. Make a single HTTP call to the
+Aivi API and track the progress of anything &ndash; from a washing machine
+cycle to a 3D print &ndash; or keep any metric at a glance on your Home or
+Lock Screen.
 
 - **Broad support.** iOS, iPadOS, watchOS, CarPlay, and macOS.
 - **Shared activities.** Invite people once and a single API call keeps
   everyone in sync.
 - **Multiple templates.** Choose between progress bars, multi-value monitors,
   and more &ndash; each with custom colors and icons.
+- **Widgets.** Home and Lock Screen widgets for the things you monitor
+  &ndash; gauges, trends, battery levels, energy prices, and more.
 - **Any device.** Add live activities to smart home devices that don't
   natively support them.
 - **Power-efficient.** Push-based &ndash; no polling, no wasted battery.
@@ -44,7 +48,7 @@ the progress of anything &ndash; from a washing machine cycle to a 3D print.
   <tbody>
     <tr>
       <td><a href="https://github.com/getaivi/ha-blueprints">HA Blueprints</a></td>
-      <td>Official Home Assistant blueprints for Aivi. Ready-made automations to connect your HA devices to live activities.</td>
+      <td>Official Home Assistant blueprints for Aivi. Ready-made automations to connect your HA devices to live activities and widgets.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/getaivi/community/discussions">Discussions</a></td>
